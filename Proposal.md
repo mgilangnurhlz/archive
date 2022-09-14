@@ -25,4 +25,4 @@ agama | char | Islam
 pekerjaan | char | Mahasiswa
 
 # UX Wireframe
-![Wireframe](https://user-images.githubusercontent.com/100754364/190275723-77d17978-80b8-44f2-a938-71c633431042.png)
+![Wireframe](https://user-images.githubusercontent.com/100754364/190275852-c561b88f-82b5-427a-ba34-da0b8143ef68.png)

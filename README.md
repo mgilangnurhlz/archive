@@ -8,7 +8,7 @@
 - [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 ### LInk Website
-[![Build Status](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mgilangnurhlz.github.io/)
 ### Tampilan web
 ![Screenshot (1914)](https://user-images.githubusercontent.com/100754364/190939988-a69708ff-f6cc-4868-804e-b4621dea88dc.png)
 

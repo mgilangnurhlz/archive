@@ -16,6 +16,15 @@
 ### Tampilan Mobile
 ![Screenshot (1915)](https://user-images.githubusercontent.com/100754364/190939991-f37fc471-e6ed-48d0-9dcc-b85e8680fd3e.png)
 
+## 2. Browser API dan Local Storage
+
+### Menggunakan :
+- [![Build Status](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+- [![Build Status](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+- [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+
+### Tampilan web
+![Screenshot (1918)](https://user-images.githubusercontent.com/100754364/191556387-7a253754-a0fd-4ada-8c7e-9624ae0ea096.png)
 
 ## Contact
 [![Build Status](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=mgilangnurhaliz@gmail.com)

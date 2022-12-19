@@ -29,37 +29,26 @@ https://youtu.be/AUEFbA2OGEY
 ![Screenshot (2169)](https://user-images.githubusercontent.com/100754364/208328262-3fe805a4-7705-449b-90c1-17eabc63b405.png)
 
 ### NodeJS & NPM installation, operation & hello world
+![Screenshot (2171)](https://user-images.githubusercontent.com/100754364/208329586-4520e889-2df2-48e4-a174-67635bf9b48a.png)
+![3](https://user-images.githubusercontent.com/100754364/208329990-71f5a17c-1763-4b55-9220-6cd3999b88ff.png)
+![Screenshot (2172)](https://user-images.githubusercontent.com/100754364/208330013-31cb5cdb-9684-4576-82a3-757c66beb633.png)
 
-## 1. Responsivedesignflexboxmediaquery
-
-### Menggunakan :
-
+### Responsivedesignflexboxmediaquery
 - [![Build Status](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 - [![Build Status](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 - [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-### LInk Website
+#### LInk Website
 
 [![Build Status](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://mgilangnurhlz.github.io/)
 
-### Tampilan web
-
+#### Tampilan web
 ![Screenshot (1914)](https://user-images.githubusercontent.com/100754364/190939988-a69708ff-f6cc-4868-804e-b4621dea88dc.png)
 
-### Tampilan Mobile
-
+#### Tampilan Mobile
 ![Screenshot (1915)](https://user-images.githubusercontent.com/100754364/190939991-f37fc471-e6ed-48d0-9dcc-b85e8680fd3e.png)
 
-## 2. Browser API dan Local Storage
-
-### Menggunakan :
-
-- [![Build Status](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-- [![Build Status](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-- [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-
-### Tampilan web
-
+### Browser API dan Local Storage
 ![Screenshot (1918)](https://user-images.githubusercontent.com/100754364/191556387-7a253754-a0fd-4ada-8c7e-9624ae0ea096.png)
 
 ## Contact

@@ -61,6 +61,11 @@ https://youtu.be/AUEFbA2OGEY
 ### Browser API dan Local Storage
 ![Screenshot (1918)](https://user-images.githubusercontent.com/100754364/191556387-7a253754-a0fd-4ada-8c7e-9624ae0ea096.png)
 
-## Contact
+### HTML Responsive Layout with Bootstrap
+![Screenshot (2197)](https://user-images.githubusercontent.com/100754364/209424792-b2747133-ff3e-428b-89ff-0ed55a2a8535.png)
 
-[![Build Status](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=mgilangnurhaliz@gmail.com)
+![Screenshot (2198)](https://user-images.githubusercontent.com/100754364/209424806-998393d8-5d29-47a8-bc78-cacb7419cf63.png)
+
+### Single Page App with React & React-router
+![Screenshot (2196)](https://user-images.githubusercontent.com/100754364/209424772-e6e41546-b4d3-4c82-8608-8b1fd8221d22.png)
+

@@ -93,8 +93,10 @@ https://youtu.be/AUEFbA2OGEY
 
 ### Single Page App with React & React-router
 
-<<<<<<< HEAD
 ![Screenshot (2196)](https://user-images.githubusercontent.com/100754364/209424772-e6e41546-b4d3-4c82-8608-8b1fd8221d22.png)
+
+### Dynamic Web Page using Laravel
+![Screenshot (2210)](https://user-images.githubusercontent.com/100754364/209506465-db266a91-89a2-409f-9279-ea9c1f4d0100.png)
 
 ### News Site using Wordpress
 
@@ -102,4 +104,4 @@ Link: https://nurhtutor.wordpress.com
 
 ![Screenshot (2208)](https://user-images.githubusercontent.com/100754364/209491495-1f0532f7-fcde-4cf3-8d7e-340c21979fb3.png)
 
-> > > > > > > 2cf01b35ab055bd4ac24d7233b63fe6270237026
+

@@ -8,6 +8,8 @@ https://youtu.be/AUEFbA2OGEY
 
 # Workshop Class
 
+## CLO 1
+
 ### git installation
 
 ![Screenshot (2162)](https://user-images.githubusercontent.com/100754364/208327118-754d07e3-3013-4034-9a3c-078fc6a571cb.png)
@@ -43,6 +45,13 @@ https://youtu.be/AUEFbA2OGEY
 ![3](https://user-images.githubusercontent.com/100754364/208329990-71f5a17c-1763-4b55-9220-6cd3999b88ff.png)
 ![Screenshot (2172)](https://user-images.githubusercontent.com/100754364/208330013-31cb5cdb-9684-4576-82a3-757c66beb633.png)
 
+### Nginx / Apache web server installation & operation
+![Screenshot (2206)](https://user-images.githubusercontent.com/100754364/209489168-631f8086-aba6-46b5-9300-f338aed733fa.png)
+![Screenshot (2204)](https://user-images.githubusercontent.com/100754364/209489171-bea4d9a8-b57f-4824-a110-2d9ac181dbff.png)
+
+
+## CLO 2
+
 ### Responsivedesignflexboxmediaquery
 #### LInk Website
 
@@ -60,6 +69,15 @@ https://youtu.be/AUEFbA2OGEY
 
 ### Browser API dan Local Storage
 ![Screenshot (1918)](https://user-images.githubusercontent.com/100754364/191556387-7a253754-a0fd-4ada-8c7e-9624ae0ea096.png)
+
+### PHP DB - Dynamic Web Page
+![Screenshot (2201)](https://user-images.githubusercontent.com/100754364/209489261-a0731e7e-ba55-47e0-9100-d5bb34be389c.png)
+
+### PHP DB - Web Service
+![Screenshot (2203)](https://user-images.githubusercontent.com/100754364/209489294-cee98225-f967-4568-b987-02a417535f1c.png)
+
+
+## CLO 3
 
 ### HTML Responsive Layout with Bootstrap
 ![Screenshot (2197)](https://user-images.githubusercontent.com/100754364/209424792-b2747133-ff3e-428b-89ff-0ed55a2a8535.png)

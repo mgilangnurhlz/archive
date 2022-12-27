@@ -23,12 +23,12 @@ Link website yang dapat diakses
 | 7 | MobaXterm installation & SSH connection | ![Screenshot (2169)](https://user-images.githubusercontent.com/100754364/208328262-3fe805a4-7705-449b-90c1-17eabc63b405.png) |
 | 8 | NodeJS & NPM installation, operation & hello world | ![Screenshot (2171)](https://user-images.githubusercontent.com/100754364/208329586-4520e889-2df2-48e4-a174-67635bf9b48a.png) |
 | | | ![3](https://user-images.githubusercontent.com/100754364/208329990-71f5a17c-1763-4b55-9220-6cd3999b88ff.png) |
-| | | ![Screenshot (2172)](https://user-images.githubusercontent.com/100754364/208330013-31cb5cdb-9684-4576-82a3-757c66beb633.png)) |
-| 9 | Linux server operation |  |
+| | | ![Screenshot (2172)](https://user-images.githubusercontent.com/100754364/208330013-31cb5cdb-9684-4576-82a3-757c66beb633.png) |
+| 9 | Linux server operation | ![Screenshot (2216)](https://user-images.githubusercontent.com/100754364/209665314-a9ba007d-4fea-4b2b-aabc-6f1ee6919f6f.png) |
 | 10 | Apache web server installation & operation | ![Screenshot (2206)](https://user-images.githubusercontent.com/100754364/209489168-631f8086-aba6-46b5-9300-f338aed733fa.png) |
 | | | ![Screenshot (2204)](https://user-images.githubusercontent.com/100754364/209489171-bea4d9a8-b57f-4824-a110-2d9ac181dbff.png) |
-| 11 | Cpanel operation |  |
-| 12 | Domain registration |  |
+| 11 | Cpanel operation | ![Screenshot (2218)](https://user-images.githubusercontent.com/100754364/209665708-2ecea5fb-bf9e-4656-9f09-a67fff32fea9.png) |
+| 12 | Domain registration | ![Screenshot (2220)](https://user-images.githubusercontent.com/100754364/209666018-ccd6ead5-e357-4ab1-b395-d64ecbd46f6d.png) |
 | 13 | HTML Responsive Layout with Media Query & Flexbox | ![Screenshot (1914)](https://user-images.githubusercontent.com/100754364/190939988-a69708ff-f6cc-4868-804e-b4621dea88dc.png) |
 | | | ![Screenshot (1915)](https://user-images.githubusercontent.com/100754364/190939991-f37fc471-e6ed-48d0-9dcc-b85e8680fd3e.png) |
 | 14 | Javascript Data Transformation | ![Screenshot (2192)](https://user-images.githubusercontent.com/100754364/209422568-e900abbd-1e62-4422-a8e4-10feb8e98db9.png) |

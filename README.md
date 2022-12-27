@@ -37,7 +37,7 @@ Link website yang dapat diakses
 | 17 | PHP DB - Dynamic Web Page | ![Screenshot (2201)](https://user-images.githubusercontent.com/100754364/209489261-a0731e7e-ba55-47e0-9100-d5bb34be389c.png) |
 | 18 | PHP DB - Web Service | ![Screenshot (2203)](https://user-images.githubusercontent.com/100754364/209489294-cee98225-f967-4568-b987-02a417535f1c.png) |
 | 19 | OOP-based PHP Project using Composer | |
-| 20 | Deploy PHP Project to Cpanel |  |
+| 20 | Deploy PHP Project to Cpanel | ![Screenshot (2222)](https://user-images.githubusercontent.com/100754364/209666679-c9563bf1-89d9-4764-8b1a-694eec1fa63d.png) |
 | 21 | HTML Responsive Layout with Bootstrap | ![Screenshot (2197)](https://user-images.githubusercontent.com/100754364/209424792-b2747133-ff3e-428b-89ff-0ed55a2a8535.png) |
 | | | ![Screenshot (2198)](https://user-images.githubusercontent.com/100754364/209424806-998393d8-5d29-47a8-bc78-cacb7419cf63.png) |
 | 22 | Single Page App with React & React-router | ![Screenshot (2196)](https://user-images.githubusercontent.com/100754364/209424772-e6e41546-b4d3-4c82-8608-8b1fd8221d22.png) |

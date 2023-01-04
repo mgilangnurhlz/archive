@@ -1,3 +1,13 @@
+<div align="center"> 
+  <h1> PROPOSAL </h1> 
+  <p>Untuk Memenuhi Ujian Akhir Semester Mata Kuliah Pengembangan Aplikasi Web</p>
+  <p>Muhammad Gilang Nur Haliz - 1207050074</p>
+  <p>Teknik Informatika Kelas D </p> 
+  
+  [Teknik Informatika](http://if.uinsgd.ac.id/) || [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+  
+</div>
+
 ## Link Video Bahan Ajar Anak kelas 5 SD
 
 https://youtu.be/AUEFbA2OGEY
@@ -8,6 +18,12 @@ https://youtu.be/AUEFbA2OGEY
 Link website yang dapat diakses
 1. https://nurhtutor.wordpress.com
 2. https://mgilangnurhlz.github.io/
+
+| No | Bentuk Asesmen | Asesmen |
+|---|---|---|
+| 1 | Proposal | [Klik disini](https://github.com/mgilangnurhlz/2223-IF215007_8-pengembangan-aplikasi-web/blob/main/Proposal.md) |
+| 2 | Frontend |  |
+| 3 | Backend |  | 
 
 
 | No | Bentuk Asesmen | Asesmen |

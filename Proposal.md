@@ -1,28 +1,51 @@
-# 2223-IF215007_8-pengembangan-aplikasi-web
+<div align="center"> 
+  <h1> PROPOSAL </h1> 
+  <p>Untuk Memenuhi Ujian Akhir Semester Mata Kuliah Pengembangan Aplikasi Web</p>
+  <p>Muhammad Gilang Nur Haliz - 1207050074</p>
+  <p>Teknik Informatika Kelas D </p> 
+  
+  [Teknik Informatika](http://if.uinsgd.ac.id/) || [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+  
+</div>
+
+
 # Permasalahan
-- Banyaknya kaum milenial yang tidak mengetahui visi dan misi dari calon kepala desa pada daerahnya.
-- Banyaknya masyarakat yang tidak memilih (Golput) karena tidak memiliki waktu senggang.
+- Banyaknya masyarakat terutama pendatang yang tidak mengetahui bagaimana cara mengajukan aspirasi kepada perangkat desa di daerahnya.
+- Kesulitannya masyarakat dalam melaporkan keluhan terhadap perangkat desa di daerahnya.
 
 # Rancangan Solusi
-Membuat aplikasi berbasis web tentang sistem voting dimana aplikasi dapat memudahkan masyarakat dalam mengenal dan memilih masing masing bakal calon kepala desa, serta menunjukkan hasil yang transparant kepada masyarakat.
+<p align="justify"> Membuat aplikasi berbasis web tentang sistem aspirasi dimana aplikasi dapat memudahkan masyarakat dalam mengajukan aspirasi,laporan, kritikkan dan juga saran pada perangkat desanya. serta pada sisi perangkat desa aplikasi ini dapat menunjukkan hasil kinerja mereka kepada masyarakat. </p>
 
 # Usecase
-- user admin dapat memasukkan calon kepala desa serta visi misi keduanya.
-- User masyarakat dapat melakukan registerasi dengan NIK.
-- user masyarakat dapat melihat visi dan misi dari masing masing calon kepala desa.
-- User masyarakat dapat memilih calon kepala desa.
-- user masyarakat dan admin dapat melihat hasil secara live report.
+- Admin dapat membuat akun masyarakat maupun sesama admin.
+- Admin dapat melakukan login.
+- Admin dapat melihat semua apirasi user.
+- Admin dapat mengkonfirmasi aspirasi user.
+- User dapat melakukan login.
+- User dapat membuat atau megajukan aspirasi.
+- User dapat mengubah dan menghapus aspirasi.
+
 
 # Struktur Data
-## User
+## Admin
 Atribut|Tipe Data|Contoh
 ---|---|---
-nik | integer | 320208050491xxxx
-nama_lengkap | string | Muhammad Gilang
-ttl | date | 2002-03-24
-alamat | char | Perum BIP Purwakarta
-agama | char | Islam
-pekerjaan | char | Mahasiswa
+id | integer | 1
+name | string | Muhammad Gilang
+email | string | gilang@gmail.com
+password | string | 123456
+role | string | admni
+
+## Aspirasi
+Atribut|Tipe Data|Contoh
+---|---|---
+id | integer | 1
+name | string | keluhan
+deskripsi | string | jalan rusak
+status | string | belum dikonfirmasi
+userid | integer | 1
 
 # UX Wireframe
-![Wireframe](https://user-images.githubusercontent.com/100754364/190277056-ddd7458f-4c2d-4f14-a2fd-93c25b35f392.png)
+<div align="center"> <img src="https://user-images.githubusercontent.com/100754364/210512705-37b1fe19-f0da-4207-aa93-d22b0caa6422.png"></div>
+
+

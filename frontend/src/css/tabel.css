@@ -1,0 +1,77 @@
+.btntabel {
+        margin-bottom: 1rem;
+        display: inline-block;
+        margin-top: 1rem;
+        padding: .8rem 3rem;
+        border-radius: 1rem;
+        background: linear-gradient(90deg, #814096, #F83292);
+        font-size: 1.7rem;
+        color: #fff;
+        cursor: pointer;
+        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+        /* transition: all .3s linear; */
+}
+
+.btntabel:hover {
+        transform: scale(1.1);
+}
+.btnedit {
+        display: inline-block;
+        margin-top: 1rem;
+        padding: .8rem 3rem;
+        border-radius: 1rem;
+        background: #F83292;
+        font-size: 1.7rem;
+        color: #fff;
+        cursor: pointer;
+        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+        margin-right:1rem;
+        /* transition: all .3s linear; */
+}
+
+.btnedit:hover {
+        transform: scale(1.1);
+}
+.btndelete {
+        display: inline-block;
+        margin-top: 1rem;
+        padding: .8rem 3rem;
+        border-radius: 1rem;
+        background: #F83292;
+        font-size: 1.7rem;
+        color: #fff;
+        cursor: pointer;
+        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+        margin-left: 1rem;
+        /* transition: all .3s linear; */
+}
+
+.btndelete:hover {
+        transform: scale(1.1);
+}
+
+.tabel {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+        text-align: center;
+        
+}
+      
+.tabel td, .tabel th {
+        border: 1px solid #ddd;
+        padding: 8px;
+        font-size: 2rem;
+}
+      
+.tabel tr:nth-child(even){background-color: #f2f2f2;}
+      
+.tabel tr:hover {background-color: #ddd;}
+      
+.tabel th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: center;
+        background-color: #814096;
+        color: white;
+}

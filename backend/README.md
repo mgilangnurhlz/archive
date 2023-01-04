@@ -7,7 +7,6 @@
   
 </div>
 
-## Cara install
 
 ### Clone repository dan masuk folder backend
 ```sh

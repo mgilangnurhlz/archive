@@ -7,23 +7,17 @@
   
 </div>
 
-## Link Video Bahan Ajar Anak kelas 5 SD
 
-https://youtu.be/AUEFbA2OGEY
-
-[![Build Status](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/AUEFbA2OGEY)
-
-
-Link website yang dapat diakses
-1. https://nurhtutor.wordpress.com
-2. https://mgilangnurhlz.github.io/
+<div align="center"> <h2> Kelas Teori </h2>  </div>
 
 | No | Bentuk Asesmen | Asesmen |
 |---|---|---|
-| 1 | Proposal | [Klik disini](https://github.com/mgilangnurhlz/2223-IF215007_8-pengembangan-aplikasi-web/blob/main/Proposal.md) |
-| 2 | Frontend |  |
-| 3 | Backend |  | 
+| 1 | Proposal Project Akhir | [Klik disini](https://github.com/mgilangnurhlz/2223-IF215007_8-pengembangan-aplikasi-web/blob/main/Proposal.md) |
+| 3 | Video Bahan Ajar | [Klik disini](https://youtu.be/AUEFbA2OGEY) |
+| 2 | Frontend Project Akhir | [Klik disini](https://github.com/mgilangnurhlz/2223-IF215007_8-pengembangan-aplikasi-web/tree/main/frontend) |
+| 3 | Backend Project Akhir | [Klik disini](https://github.com/mgilangnurhlz/2223-IF215007_8-pengembangan-aplikasi-web/tree/main/backend) | 
 
+<div align="center"> <h2> Kelas Praktikum </h2>  </div>
 
 | No | Bentuk Asesmen | Asesmen |
 |---|---|---|

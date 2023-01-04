@@ -1,0 +1,53 @@
+post http://localhost:5000/users
+Content-Type: application/json
+
+{
+      "name": "gilang1",
+      "email": "gilangg@gmail.com",
+      "password": "123456",  
+      "confPassword": "123456",
+      "role": "user"
+}
+
+###
+
+get http://localhost:5000/users
+
+###
+post http://localhost:5000/login
+Content-Type: application/json
+
+{
+      "email": "admin@gmail.com",
+      "password": "123456"  
+}
+
+###
+post http://localhost:5000/aspirasi
+Content-Type: application/json
+
+{
+      "name": "Product 1",
+      "deskripsi": "hallo",
+      "status": "menunggu"
+}
+
+###
+get http://localhost:5000/me
+
+
+###
+get http://localhost:5000/aspirasis
+
+###
+patch http://localhost:5000/aspirasi/796cdbd5-464e-4d60-b8ec-bbc8ea290b7e
+Content-Type: application/json
+
+{
+      "name": "Product 3",
+      "deskripsi": "hallo",
+      "status": "dikonfirmasi"
+}
+
+###
+get http://localhost:5000/aspirasi/796cdbd5-464e-4d60-b8ec-bbc8ea290b7e

@@ -1,0 +1,100 @@
+post http://localhost:5000/users
+Content-Type: application/json
+
+{
+      "name": "gilang1",
+      "email": "user@gmail.com",
+      "password": "123456",  
+      "confPassword": "123456",
+      "role": "user"
+}
+###
+
+get http://localhost:5000/users
+
+###
+get http://localhost:5000/users/6f6edb85-814c-4aa0-b2e8-225d5b1a6554
+
+### 
+patch http://localhost:5000/users/2d07cadb-79e3-4d24-89a1-53727e8cb5e8
+Content-Type: application/json
+
+{
+      "name": "gilangNur",
+      "email": "admin@gmail.com",
+      "password": "nurh",  
+      "confPassword": "nurh",
+      "role": "admin"
+}
+
+###
+delete http://localhost:5000/users/2d07cadb-79e3-4d24-89a1-53727e8cb5e8
+
+###
+post http://localhost:5000/login
+Content-Type: application/json
+
+{
+      "email": "admin@gmail.com",
+      "password": "123456"  
+}
+
+###
+post http://localhost:5000/login
+Content-Type: application/json
+
+{
+      "email": "user@gmail.com",
+      "password": "123456"  
+}
+
+###
+get http://localhost:5000/me
+
+
+###
+delete http://localhost:5000/logout
+
+
+###
+get http://localhost:5000/products
+
+
+###
+get http://localhost:5000/products/f55ed61a-bf0c-4b3b-844b-c6c966417e3b
+
+
+###
+post http://localhost:5000/products
+Content-Type: application/json
+
+{
+      "name": "Product 3",
+      "price": 3000  
+}
+
+
+###
+patch http://localhost:5000/products/f55ed61a-bf0c-4b3b-844b-c6c966417e3b
+Content-Type: application/json
+
+{
+      "name": "Product 3",
+      "price": 3100  
+}
+
+
+###
+patch http://localhost:5000/products/2b3a307b-23ea-4998-8e8a-298906039699
+Content-Type: application/json
+
+{
+      "name": "Product 1",
+      "price": 3100  
+}
+
+###
+delete http://localhost:5000/products/2b3a307b-23ea-4998-8e8a-298906039699
+
+###
+delete http://localhost:5000/products/f55ed61a-bf0c-4b3b-844b-c6c966417e3b

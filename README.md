@@ -1,7 +1,6 @@
 <div align="center"> 
-  <h1> PROPOSAL </h1> 
+  <h1> Muhammad Gilang Nur Haliz - 1207050074 </h1> 
   <p>Untuk Memenuhi Ujian Akhir Semester Mata Kuliah Pengembangan Aplikasi Web</p>
-  <p>Muhammad Gilang Nur Haliz - 1207050074</p>
   <p>Teknik Informatika Kelas D </p> 
   
   [Teknik Informatika](http://if.uinsgd.ac.id/) || [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 

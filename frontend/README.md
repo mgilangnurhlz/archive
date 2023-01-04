@@ -8,7 +8,7 @@
 </div>
 
 
-### Clone repository dan masuk folder backend
+### Clone repository dan masuk folder frontend
 ```sh
 git clone https://github.com/mgilangnurhlz/2223-IF215007_8-pengembangan-aplikasi-web.git
 ```

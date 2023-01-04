@@ -8,7 +8,7 @@
 </div>
 
 
-<div align="center"> <h2> Kelas Teori </h2>  </div>
+<div align="center"> <h2> Kelas Teori D</h2>  </div>
 
 | No | Bentuk Asesmen | Asesmen |
 |---|---|---|
@@ -17,7 +17,7 @@
 | 2 | Frontend Project Akhir | [Klik disini](https://github.com/mgilangnurhlz/2223-IF215007_8-pengembangan-aplikasi-web/tree/main/frontend) |
 | 3 | Backend Project Akhir | [Klik disini](https://github.com/mgilangnurhlz/2223-IF215007_8-pengembangan-aplikasi-web/tree/main/backend) | 
 
-<div align="center"> <h2> Kelas Praktikum </h2>  </div>
+<div align="center"> <h2> Kelas Praktikum G</h2>  </div>
 
 | No | Bentuk Asesmen | Asesmen |
 |---|---|---|

@@ -42,7 +42,7 @@
 | | | ![Screenshot (1915)](https://user-images.githubusercontent.com/100754364/190939991-f37fc471-e6ed-48d0-9dcc-b85e8680fd3e.png) |
 | 14 | Javascript Data Transformation | ![Screenshot (2192)](https://user-images.githubusercontent.com/100754364/209422568-e900abbd-1e62-4422-a8e4-10feb8e98db9.png) |
 | 15 | Browser API - Event Handling, Local Storage, Element manipulation | ![Screenshot (1918)](https://user-images.githubusercontent.com/100754364/191556387-7a253754-a0fd-4ada-8c7e-9624ae0ea096.png) |
-| 16 | HTTP GET & POST using Form Action and Fetch API |  |
+| 16 | HTTP GET & POST using Form Action and Fetch API | ![Screenshot (2254)](https://user-images.githubusercontent.com/100754364/210524244-8eaecb80-e355-4e16-a01e-60864d12251d.png) |
 | 17 | PHP DB - Dynamic Web Page | ![Screenshot (2201)](https://user-images.githubusercontent.com/100754364/209489261-a0731e7e-ba55-47e0-9100-d5bb34be389c.png) |
 | 18 | PHP DB - Web Service | ![Screenshot (2203)](https://user-images.githubusercontent.com/100754364/209489294-cee98225-f967-4568-b987-02a417535f1c.png) |
 | 19 | OOP-based PHP Project using Composer | |
